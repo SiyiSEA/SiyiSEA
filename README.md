@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siyi Wang</h1>
 <h3 align="center">A passionate bioinformatics developer from China.</h3>
 
-- 🔭 I’m currently working on GWAS on pacing of aging **GoDMC2** [[link](https://github.com/genetics-of-dna-methylation-consortium/godmc_phase2)]
+- 🔭 I’m currently working on GWAS on pacing of aging **GoDMC2** [[https://github.com/genetics-of-dna-methylation-consortium/godmc_phase2](https://github.com/genetics-of-dna-methylation-consortium/godmc_phase2)]
 
 - 🌱 I’m currently learning **Molecular Epidemiology, Health Statistics for Data Scientists**
 
