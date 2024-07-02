@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on GWAS on pacing of aging **GoDMC2** [[https://github.com/genetics-of-dna-methylation-consortium/godmc_phase2](https://github.com/genetics-of-dna-methylation-consortium/godmc_phase2)]
 
-- 🌱 I’m currently learning **Molecular Epidemiology, Health Statistics for Data Scientists**
+- 🌱 I’m currently learning **Molecular Epidemiology, Health Statistics for Data Scientists** [https://epigeneticsexeter.github.io/people/siyi-wang/](https://epigeneticsexeter.github.io/people/siyi-wang/)
 
 - 👯 I’m looking to the PhD position on **bioinformatics**.
 
